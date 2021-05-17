@@ -8,7 +8,7 @@ A cheatsheet for VIM cause its cool
 4. [Edit Commands](https://github.com/dangitsdavid/cheatsheets/blob/main/vim-cheatsheet.md#edit-commands)
 5. [Exit Commands](https://github.com/dangitsdavid/cheatsheets/blob/main/vim-cheatsheet.md#exit-commands)
 
-## Basic Commands [top]()
+## Basic Commands - [top](https://github.com/dangitsdavid/cheatsheets/blob/main/vim-cheatsheet.md#vim-cheatsheet)
 | Command       | Action                                |
 | ------------- | -------------                         |
 | [esc]         | Exit out of mode                      |
@@ -19,7 +19,7 @@ A cheatsheet for VIM cause its cool
 | o             | Type on a new line before cursor      |
 | O             | Type on a new line after cursor       |
 
-## Navigation Commands
+## Navigation Commands - [top](https://github.com/dangitsdavid/cheatsheets/blob/main/vim-cheatsheet.md#vim-cheatsheet)
 | Command       | Action                                |
 | ------------- | -------------                         |
 | gg            | Move to beginning of file             |
@@ -34,7 +34,7 @@ A cheatsheet for VIM cause its cool
 | v             | Move to the previous word             |
 | V             | Move to the previous word separated by space |
 
-## Search Commands
+## Search Commands - [top](https://github.com/dangitsdavid/cheatsheets/blob/main/vim-cheatsheet.md#vim-cheatsheet)
 | Command       | Action                                       |
 | ------------- | -------------                                |
 | f             | Looks for an input character to the right    |
@@ -45,7 +45,7 @@ A cheatsheet for VIM cause its cool
 | #             | Search for the same word that cursor is on - right direction  |
 | #             | Search for the same word that cursor is on - left direction   |
 
-## Edit Commands
+## Edit Commands - [top](https://github.com/dangitsdavid/cheatsheets/blob/main/vim-cheatsheet.md#vim-cheatsheet)
 | Command       | Action                                       |
 | ------------- | -------------                                |
 | u             | Reverse action                               |
@@ -65,7 +65,7 @@ A cheatsheet for VIM cause its cool
 | d + a + (     | Delete entire ( parenthesis )                |
 | c + i + (     | Delete characters inside a ( parenthesis ) and enter insert mode   |
 
-## Exit Commands
+## Exit Commands - [top](https://github.com/dangitsdavid/cheatsheets/blob/main/vim-cheatsheet.md#vim-cheatsheet)
 | Command       | Action                                       |
 | ------------- | -------------                                |
 | : + w         | Save changes to file                         |
