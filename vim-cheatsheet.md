@@ -1,14 +1,14 @@
 # vim-cheatsheet
 A cheatsheet for VIM cause its cool
 
-Content:
+## Content:
 1. [Basic Commands](https://github.com/dangitsdavid/cheatsheets/blob/main/vim-cheatsheet.md#basic-commands)
 2. [Navigation Commands](https://github.com/dangitsdavid/cheatsheets/blob/main/vim-cheatsheet.md#navigation-commands)
 3. [Search Commands](https://github.com/dangitsdavid/cheatsheets/blob/main/vim-cheatsheet.md#search-commands)
 4. [Edit Commands](https://github.com/dangitsdavid/cheatsheets/blob/main/vim-cheatsheet.md#edit-commands)
 5. [Exit Commands](https://github.com/dangitsdavid/cheatsheets/blob/main/vim-cheatsheet.md#exit-commands)
 
-## Basic Commands
+## Basic Commands [top]()
 | Command       | Action                                |
 | ------------- | -------------                         |
 | [esc]         | Exit out of mode                      |
